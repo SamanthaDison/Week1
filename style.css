@@ -1,19 +1,61 @@
 header{
-background-color: blue;
+background-color: rgb(10, 10, 67);
 color: white;
 justify-content: center;
 align-items: flex-end;
-height: 10vh;
+height: 7em;
 border: solid black;
 }
 
+.bluebox{
+    background-color: lightblue;
+    color: lightblue;
+}
 
+.main-text{
+    align-items: center;
+    margin-left: 12em;
+    padding-right: 5em;
+    padding-top: 3em;
+    margin-bottom: 5em;
+    width: 40%;
+}
 
+.sub-head{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
 
+img{
+    height: 12em;
+    width: 12em;
+}
 
+.article{
+    text-align: center;
+    justify-content: center;
+    padding-top: 10em;
+    width: 30%
+}
+
+footer{  
+    border: solid  black;
+        background-color: rgb(10, 10, 67);
+        height: 6em;
+        bottom: 0;
+        width: 100%;
+}
 
 /* UTIL */
 
 .d-flex{
     display: flex;
+}
+
+.text-end{
+    text-align: end;
+}
+
+.text-center{
+    text-align: center;
 }
