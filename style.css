@@ -1,0 +1,19 @@
+header{
+background-color: blue;
+color: white;
+justify-content: center;
+align-items: flex-end;
+height: 10vh;
+border: solid black;
+}
+
+
+
+
+
+
+/* UTIL */
+
+.d-flex{
+    display: flex;
+}
