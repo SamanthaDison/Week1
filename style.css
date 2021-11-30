@@ -4,6 +4,7 @@ color: white;
 justify-content: center;
 align-items: flex-end;
 height: 7em;
+width: 100%;
 border: solid black;
 }
 
